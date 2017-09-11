@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Latest version</h2>
+<h2>Hello World! New version</h2>
 </body>
 </html>
